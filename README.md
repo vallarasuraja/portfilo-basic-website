@@ -1,5 +1,3 @@
-# portfilo-basic-website
-
 # My Portfolio Website
 
 Welcome to my personal portfolio website! This site is designed to showcase my work and provide an easy way for potential clients, employers, or collaborators to get in touch with me.
@@ -30,9 +28,7 @@ To view the portfolio locally on your machine, follow these steps:
    ```
 
 2. Navigate to the project folder:
-   ```bash
-   cd your-portfolio
-   ```
+   [linK]
 
 3. Open `index.html` in your browser to view the homepage, or open `contact.html` to view the contact page.
 
